@@ -1,0 +1,10 @@
+.Board {
+  margin: 0 auto;
+}
+
+p {
+    margin: 0 auto;
+    max-width: 500px;
+    border: solid 2px #ccc;
+    padding: 12px;
+}
