@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lights-out-app/static/css/main.647dce6a.chunk.css",
+    "main.js": "/react-lights-out-app/static/js/main.59657ba2.chunk.js",
+    "main.js.map": "/react-lights-out-app/static/js/main.59657ba2.chunk.js.map",
+    "runtime-main.js": "/react-lights-out-app/static/js/runtime-main.22ae3655.js",
+    "runtime-main.js.map": "/react-lights-out-app/static/js/runtime-main.22ae3655.js.map",
+    "static/js/2.f9406a18.chunk.js": "/react-lights-out-app/static/js/2.f9406a18.chunk.js",
+    "static/js/2.f9406a18.chunk.js.map": "/react-lights-out-app/static/js/2.f9406a18.chunk.js.map",
+    "static/js/3.1cb8cdc8.chunk.js": "/react-lights-out-app/static/js/3.1cb8cdc8.chunk.js",
+    "static/js/3.1cb8cdc8.chunk.js.map": "/react-lights-out-app/static/js/3.1cb8cdc8.chunk.js.map",
+    "index.html": "/react-lights-out-app/index.html",
+    "static/css/main.647dce6a.chunk.css.map": "/react-lights-out-app/static/css/main.647dce6a.chunk.css.map",
+    "static/js/2.f9406a18.chunk.js.LICENSE.txt": "/react-lights-out-app/static/js/2.f9406a18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22ae3655.js",
+    "static/js/2.f9406a18.chunk.js",
+    "static/css/main.647dce6a.chunk.css",
+    "static/js/main.59657ba2.chunk.js"
+  ]
+}
